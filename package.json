@@ -17,5 +17,8 @@
     "slate": "^0.59.0",
     "slate-react": "^0.59.0",
     "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "tailwind-styled-components": "^1.0.7"
   }
 }
